@@ -2,7 +2,7 @@
 
 int main()
 {
-    int x[10],min=0,max=0,i;
+    int x[10],min,max,i;
     printf("Enter no.=");
     for (i=0;i<10;i++)
     {
